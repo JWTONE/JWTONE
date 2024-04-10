@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### There are many things I want to do
+### Time is limited and the goal is to have fun.
 <!--
 **JWTONE/JWTONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
